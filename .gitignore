@@ -64,3 +64,5 @@ typings/
 *.js
 
 .DS_Store
+
+*.map
